@@ -1,15 +1,15 @@
 module.exports = {
-  title: 'Dev Blog', // Required
-  author: 'Ryan Fitzgerald', // Required
+  title: 'Devs blog', // Required
+  author: 'Roman Ostash', // Required
   tagline: 'Full-stack Web Developer',
-  primaryColor: '#34dbcb', // Required
+  primaryColor: '#25b7d1', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
     website: 'https://romanostash.com',
-    github: 'https://github.com/ryanfitzgerald',
+    github: 'https://github.com/Romacoding',
     twitter: 'https://twitter.com/ostash',
-    linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald'
+    linkedin: 'https://ca.linkedin.com/in/'
   }
 };
