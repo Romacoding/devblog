@@ -2,7 +2,7 @@ module.exports = {
   title: 'Dev Blog', // Required
   author: 'Ryan Fitzgerald', // Required
   tagline: 'Full-stack Web Developer',
-  primaryColor: '#3498db', // Required
+  primaryColor: '#34dbcb', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
