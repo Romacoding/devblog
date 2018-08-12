@@ -1,7 +1,7 @@
 module.exports = {
-  title: 'Devs blog', // Required
+  title: 'Roman Ostash\'s blog', // Required
   author: 'Roman Ostash', // Required
-  tagline: 'Full-stack Web Developer',
+  tagline: 'Web Developer',
   primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
