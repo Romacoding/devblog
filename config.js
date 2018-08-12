@@ -2,7 +2,7 @@ module.exports = {
   title: 'Devs blog', // Required
   author: 'Roman Ostash', // Required
   tagline: 'Full-stack Web Developer',
-  primaryColor: '#25b7d1', // Required
+  primaryColor: '#3498db', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
@@ -10,6 +10,6 @@ module.exports = {
     website: 'https://romanostash.com',
     github: 'https://github.com/Romacoding',
     twitter: 'https://twitter.com/ostash',
-    linkedin: 'https://ca.linkedin.com/in/'
+    linkedin: 'https://www.linkedin.com/in/roman-ostash/'
   }
 };
