@@ -7,9 +7,9 @@ module.exports = {
   showShareButtons: true,
   postsPerPage: 5, // Required
   social: {
-    website: 'https://ryanfitzgerald.ca',
+    website: 'https://romanostash.com',
     github: 'https://github.com/ryanfitzgerald',
-    twitter: 'https://twitter.com/ryanafitzgerald',
+    twitter: 'https://twitter.com/ostash',
     linkedin: 'https://ca.linkedin.com/in/ryanafitzgerald'
   }
 };
