@@ -2,7 +2,7 @@ module.exports = {
   title: 'Roman Ostash\'s blog', // Required
   author: 'Roman Ostash', // Required
   tagline: 'Web Developer',
-  primaryColor: '#58d4ba', // Required
+  primaryColor: '#8ee8d8', // Required
   showHeaderImage: true,
   showShareButtons: true,
   postsPerPage: 5, // Required
