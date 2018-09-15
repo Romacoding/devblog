@@ -1,12 +1,12 @@
 ---
-title: My Second Post!
-date: "2018-06-29"
+title: My jorney as a programmer Part 2
+date: "2018-04-15"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris consectetur dolor metus, in semper purus tempus nec. Nunc porta maximus nisi eget tempus. Maecenas tellus ligula, porttitor ut ligula vitae, porta malesuada libero. Fusce at pharetra diam. Sed eget erat nibh. Nulla condimentum eros a nisi placerat, nec ultrices arcu dictum. Vestibulum nec elementum mi, id tempor ligula. 
+At the beginning of last year, I had finally decided that I wanted to learn a programing language, so I searched the internet for many hours studying what would be the language I should learn and is in demand.
 
-Etiam ut lectus ac quam facilisis sodales. Donec laoreet justo id diam aliquet aliquet. Vivamus arcu est, varius in erat non, pharetra pulvinar magna. Fusce quis elementum nulla.
+I found that there is a large need in people who know web development. I started out with HTML and CSS then focusing on JavaScript. I’m still need to gain a in-depth knowledge of frameworks and libraries used in modern web development, but learning new things always excites me and motivates to become a better programmer.
+
 
 ![Train Tracks](./traintrack.jpg)
 
-Nullam tristique ante quis gravida aliquet. Donec elementum, leo eu interdum mattis, erat quam vestibulum nunc, nec convallis eros risus ut enim. Sed maximus odio tincidunt velit congue molestie. Nunc in pharetra eros, id pulvinar justo. Pellentesque quis accumsan leo. Praesent efficitur magna a posuere viverra. Morbi sit amet tincidunt mauris. Vestibulum sed maximus felis.
